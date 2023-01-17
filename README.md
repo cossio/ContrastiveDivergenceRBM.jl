@@ -14,3 +14,7 @@ This package is registered. Install with:
 import Pkg
 Pkg.add("ContrastiveDivergenceRBM")
 ```
+
+## Related
+
+* https://github.com/cossio/RestrictedBoltzmannMachines.jl
