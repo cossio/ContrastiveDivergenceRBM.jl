@@ -7,3 +7,4 @@ All notable changes to this project will be documented in this file. The format 
 ## v1.0.0
 
 - Contrastive divergence algorithm for training Restricted Boltzmann Machines.
+- Compatiblity with with RestrictedBoltzmannMachines v3.
