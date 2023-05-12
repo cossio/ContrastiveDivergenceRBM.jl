@@ -56,7 +56,7 @@ function cd!(
         rescale && rescale_weights!(rbm)
         zerosum && zerosum!(rbm)
 
-        callback(; rbm, optim, iter, vm, vd)
+        callback(; rbm, optim, iter, vm, vd, ∂)
     end
     return state, ps
 end
