@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file. The format 
 
 ## Unreleased
 
+## v2.0.0
+
+- `callback` now receives the gradient as an argument `∂`.
+- No other (breaking) changes, but tagging major release to be safe.
+
 ## v1.0.0
 
 - Contrastive divergence algorithm for training Restricted Boltzmann Machines.
