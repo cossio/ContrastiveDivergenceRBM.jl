@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file. The format 
 
 ## Unreleased
 
+## v2.2.0
+
+- Require RestrictedBoltzmannMachines 7.1 (was 1-3) and Optimisers 0.4. `cd!` itself is unchanged; the old RestrictedBoltzmannMachines versions remain served by ContrastiveDivergenceRBM 2.1.
+
 ## v2.0.0
 
 - `callback` now receives the gradient as an argument `∂`.
